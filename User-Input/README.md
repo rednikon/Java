@@ -1,2 +1,2 @@
-This assignment was to help us practice creating a class, main function, variables, and accepting user input.
-We did this by creating two files: a Mad Libs game that asks the user to supply nouns, verbs, adjectives, etc; and a Money program that works with doubles and the Modulo.
+The first few assignments at Berkeley and CCSF were to help us practice creating a class, main function, variables, and accepting user input.
+We did this in the first few assignments for both classes, so I just put them all in this subdirectory.
