@@ -1,0 +1,4 @@
+This is a text file. It’s a test for the Intro to Java class homework.
+The program I made is supposed to count how many of each vowel there is in this document.
+
+It will also count the total amount of consonants too.
